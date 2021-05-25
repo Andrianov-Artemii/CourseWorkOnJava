@@ -1,0 +1,586 @@
+{
+  "finishedElements": [
+    {
+      "departureTime": "01:09:56",
+      "startOfUnload": "02:10:35",
+      "endOfUnload": "02:19:21",
+      "shipName": "Ship [Number 0]",
+      "arrivingTime": "01:09:28"
+    },
+    {
+      "departureTime": "04:18:13",
+      "startOfUnload": "03:14:27",
+      "endOfUnload": "04:16:59",
+      "shipName": "Ship [Number 11]",
+      "arrivingTime": "03:14:26"
+    },
+    {
+      "departureTime": "06:11:28",
+      "startOfUnload": "01:06:42",
+      "endOfUnload": "02:10:34",
+      "shipName": "Ship [Number 16]",
+      "arrivingTime": "01:06:41"
+    },
+    {
+      "departureTime": "08:05:45",
+      "startOfUnload": "08:20:49",
+      "endOfUnload": "09:20:54",
+      "shipName": "Ship [Number 23]",
+      "arrivingTime": "08:01:28"
+    },
+    {
+      "departureTime": "09:04:04",
+      "startOfUnload": "09:20:55",
+      "endOfUnload": "10:20:24",
+      "shipName": "Ship [Number 25]",
+      "arrivingTime": "09:00:02"
+    },
+    {
+      "departureTime": "10:07:42",
+      "startOfUnload": "10:20:25",
+      "endOfUnload": "11:11:53",
+      "shipName": "Ship [Number 27]",
+      "arrivingTime": "09:04:33"
+    },
+    {
+      "departureTime": "10:15:42",
+      "startOfUnload": "11:11:54",
+      "endOfUnload": "12:10:04",
+      "shipName": "Ship [Number 28]",
+      "arrivingTime": "08:10:21"
+    },
+    {
+      "departureTime": "11:16:30",
+      "startOfUnload": "12:10:05",
+      "endOfUnload": "12:14:37",
+      "shipName": "Ship [Number 30]",
+      "arrivingTime": "09:14:09"
+    },
+    {
+      "departureTime": "11:23:02",
+      "startOfUnload": "07:20:37",
+      "endOfUnload": "08:20:48",
+      "shipName": "Ship [Number 31]",
+      "arrivingTime": "07:20:23"
+    },
+    {
+      "departureTime": "13:04:17",
+      "startOfUnload": "06:23:42",
+      "endOfUnload": "07:20:36",
+      "shipName": "Ship [Number 34]",
+      "arrivingTime": "06:23:41"
+    },
+    {
+      "departureTime": "12:14:27",
+      "startOfUnload": "12:14:38",
+      "endOfUnload": "12:16:56",
+      "shipName": "Ship [Number 35]",
+      "arrivingTime": "12:14:04"
+    },
+    {
+      "departureTime": "14:00:37",
+      "startOfUnload": "13:09:02",
+      "endOfUnload": "13:18:44",
+      "shipName": "Ship [Number 36]",
+      "arrivingTime": "12:19:10"
+    },
+    {
+      "departureTime": "14:01:00",
+      "startOfUnload": "12:16:57",
+      "endOfUnload": "13:09:01",
+      "shipName": "Ship [Number 38]",
+      "arrivingTime": "07:23:00"
+    },
+    {
+      "departureTime": "15:02:28",
+      "startOfUnload": "13:18:45",
+      "endOfUnload": "14:01:03",
+      "shipName": "Ship [Number 39]",
+      "arrivingTime": "09:22:53"
+    },
+    {
+      "departureTime": "15:19:17",
+      "startOfUnload": "15:22:19",
+      "endOfUnload": "16:11:05",
+      "shipName": "Ship [Number 43]",
+      "arrivingTime": "15:16:01"
+    },
+    {
+      "departureTime": "17:20:00",
+      "startOfUnload": "14:01:04",
+      "endOfUnload": "15:01:15",
+      "shipName": "Ship [Number 49]",
+      "arrivingTime": "11:15:16"
+    },
+    {
+      "departureTime": "18:15:43",
+      "startOfUnload": "15:01:16",
+      "endOfUnload": "15:10:10",
+      "shipName": "Ship [Number 52]",
+      "arrivingTime": "12:11:12"
+    },
+    {
+      "departureTime": "19:16:45",
+      "startOfUnload": "16:11:06",
+      "endOfUnload": "16:15:13",
+      "shipName": "Ship [Number 56]",
+      "arrivingTime": "15:16:34"
+    },
+    {
+      "departureTime": "20:09:04",
+      "startOfUnload": "19:05:07",
+      "endOfUnload": "19:11:36",
+      "shipName": "Ship [Number 57]",
+      "arrivingTime": "19:05:06"
+    },
+    {
+      "departureTime": "20:14:59",
+      "startOfUnload": "20:12:43",
+      "endOfUnload": "21:10:40",
+      "shipName": "Ship [Number 58]",
+      "arrivingTime": "20:12:42"
+    },
+    {
+      "departureTime": "20:10:10",
+      "startOfUnload": "15:10:11",
+      "endOfUnload": "15:22:18",
+      "shipName": "Ship [Number 59]",
+      "arrivingTime": "15:04:36"
+    },
+    {
+      "departureTime": "21:14:25",
+      "startOfUnload": "19:11:37",
+      "endOfUnload": "19:17:51",
+      "shipName": "Ship [Number 60]",
+      "arrivingTime": "19:10:03"
+    },
+    {
+      "departureTime": "21:20:56",
+      "startOfUnload": "16:17:47",
+      "endOfUnload": "17:14:30",
+      "shipName": "Ship [Number 62]",
+      "arrivingTime": "16:17:46"
+    },
+    {
+      "departureTime": "23:02:00",
+      "startOfUnload": "23:09:30",
+      "endOfUnload": "24:04:24",
+      "shipName": "Ship [Number 68]",
+      "arrivingTime": "23:01:51"
+    },
+    {
+      "departureTime": "24:08:47",
+      "startOfUnload": "21:10:41",
+      "endOfUnload": "21:16:41",
+      "shipName": "Ship [Number 69]",
+      "arrivingTime": "21:06:40"
+    },
+    {
+      "departureTime": "25:17:12",
+      "startOfUnload": "22:15:22",
+      "endOfUnload": "22:21:31",
+      "shipName": "Ship [Number 72]",
+      "arrivingTime": "22:15:21"
+    },
+    {
+      "departureTime": "25:16:08",
+      "startOfUnload": "25:10:31",
+      "endOfUnload": "26:03:41",
+      "shipName": "Ship [Number 74]",
+      "arrivingTime": "25:10:30"
+    },
+    {
+      "departureTime": "27:21:35",
+      "startOfUnload": "22:21:32",
+      "endOfUnload": "23:09:29",
+      "shipName": "Ship [Number 78]",
+      "arrivingTime": "22:18:38"
+    },
+    {
+      "departureTime": "27:17:38",
+      "startOfUnload": "24:13:48",
+      "endOfUnload": "25:08:47",
+      "shipName": "Ship [Number 80]",
+      "arrivingTime": "24:13:47"
+    },
+    {
+      "departureTime": "28:03:57",
+      "startOfUnload": "28:03:28",
+      "endOfUnload": "28:07:26",
+      "shipName": "Ship [Number 81]",
+      "arrivingTime": "28:03:27"
+    },
+    {
+      "departureTime": "28:19:20",
+      "startOfUnload": "29:01:48",
+      "endOfUnload": "29:15:14",
+      "shipName": "Ship [Number 82]",
+      "arrivingTime": "28:17:53"
+    },
+    {
+      "departureTime": "28:16:16",
+      "startOfUnload": "27:11:35",
+      "endOfUnload": "27:23:59",
+      "shipName": "Ship [Number 83]",
+      "arrivingTime": "27:11:34"
+    },
+    {
+      "departureTime": "29:09:34",
+      "startOfUnload": "29:15:15",
+      "endOfUnload": "30:06:03",
+      "shipName": "Ship [Number 84]",
+      "arrivingTime": "29:07:32"
+    },
+    {
+      "departureTime": "29:17:36",
+      "startOfUnload": "28:15:37",
+      "endOfUnload": "29:01:47",
+      "shipName": "Ship [Number 86]",
+      "arrivingTime": "28:15:36"
+    },
+    {
+      "departureTime": "03:21:00",
+      "startOfUnload": "02:17:06",
+      "endOfUnload": "02:21:22",
+      "shipName": "Ship [Number 7]",
+      "arrivingTime": "02:17:05"
+    },
+    {
+      "departureTime": "05:21:17",
+      "startOfUnload": "03:14:02",
+      "endOfUnload": "04:19:42",
+      "shipName": "Ship [Number 13]",
+      "arrivingTime": "03:14:01"
+    },
+    {
+      "departureTime": "06:12:04",
+      "startOfUnload": "01:06:36",
+      "endOfUnload": "02:00:59",
+      "shipName": "Ship [Number 15]",
+      "arrivingTime": "01:06:35"
+    },
+    {
+      "departureTime": "07:10:35",
+      "startOfUnload": "05:06:34",
+      "endOfUnload": "06:02:25",
+      "shipName": "Ship [Number 19]",
+      "arrivingTime": "05:06:33"
+    },
+    {
+      "departureTime": "08:02:56",
+      "startOfUnload": "06:23:11",
+      "endOfUnload": "07:04:05",
+      "shipName": "Ship [Number 20]",
+      "arrivingTime": "06:23:10"
+    },
+    {
+      "departureTime": "08:10:31",
+      "startOfUnload": "04:19:43",
+      "endOfUnload": "05:04:13",
+      "shipName": "Ship [Number 21]",
+      "arrivingTime": "04:05:49"
+    },
+    {
+      "departureTime": "08:10:38",
+      "startOfUnload": "08:09:29",
+      "endOfUnload": "09:08:37",
+      "shipName": "Ship [Number 22]",
+      "arrivingTime": "08:09:28"
+    },
+    {
+      "departureTime": "10:08:55",
+      "startOfUnload": "06:07:41",
+      "endOfUnload": "06:18:26",
+      "shipName": "Ship [Number 29]",
+      "arrivingTime": "06:07:40"
+    },
+    {
+      "departureTime": "13:19:51",
+      "startOfUnload": "11:19:08",
+      "endOfUnload": "12:19:12",
+      "shipName": "Ship [Number 37]",
+      "arrivingTime": "11:19:07"
+    },
+    {
+      "departureTime": "14:23:05",
+      "startOfUnload": "14:23:44",
+      "endOfUnload": "15:07:35",
+      "shipName": "Ship [Number 40]",
+      "arrivingTime": "14:21:42"
+    },
+    {
+      "departureTime": "15:02:19",
+      "startOfUnload": "13:23:48",
+      "endOfUnload": "14:23:43",
+      "shipName": "Ship [Number 41]",
+      "arrivingTime": "13:23:47"
+    },
+    {
+      "departureTime": "17:01:34",
+      "startOfUnload": "16:18:50",
+      "endOfUnload": "17:04:49",
+      "shipName": "Ship [Number 46]",
+      "arrivingTime": "16:18:49"
+    },
+    {
+      "departureTime": "16:13:32",
+      "startOfUnload": "15:07:36",
+      "endOfUnload": "15:15:52",
+      "shipName": "Ship [Number 47]",
+      "arrivingTime": "14:11:18"
+    },
+    {
+      "departureTime": "17:08:07",
+      "startOfUnload": "15:15:53",
+      "endOfUnload": "16:02:31",
+      "shipName": "Ship [Number 50]",
+      "arrivingTime": "14:04:06"
+    },
+    {
+      "departureTime": "18:22:45",
+      "startOfUnload": "17:18:30",
+      "endOfUnload": "18:16:52",
+      "shipName": "Ship [Number 51]",
+      "arrivingTime": "17:18:29"
+    },
+    {
+      "departureTime": "19:20:03",
+      "startOfUnload": "18:23:52",
+      "endOfUnload": "19:02:19",
+      "shipName": "Ship [Number 54]",
+      "arrivingTime": "18:18:14"
+    },
+    {
+      "departureTime": "19:21:07",
+      "startOfUnload": "20:03:41",
+      "endOfUnload": "20:07:57",
+      "shipName": "Ship [Number 55]",
+      "arrivingTime": "19:19:56"
+    },
+    {
+      "departureTime": "21:04:35",
+      "startOfUnload": "20:07:58",
+      "endOfUnload": "21:00:14",
+      "shipName": "Ship [Number 61]",
+      "arrivingTime": "20:02:12"
+    },
+    {
+      "departureTime": "22:04:58",
+      "startOfUnload": "18:16:53",
+      "endOfUnload": "18:23:51",
+      "shipName": "Ship [Number 63]",
+      "arrivingTime": "18:03:51"
+    },
+    {
+      "departureTime": "22:10:20",
+      "startOfUnload": "19:17:38",
+      "endOfUnload": "20:03:40",
+      "shipName": "Ship [Number 64]",
+      "arrivingTime": "19:07:10"
+    },
+    {
+      "departureTime": "23:15:41",
+      "startOfUnload": "19:02:20",
+      "endOfUnload": "19:17:37",
+      "shipName": "Ship [Number 66]",
+      "arrivingTime": "18:11:54"
+    },
+    {
+      "departureTime": "24:18:24",
+      "startOfUnload": "21:00:15",
+      "endOfUnload": "22:00:19",
+      "shipName": "Ship [Number 71]",
+      "arrivingTime": "19:17:41"
+    },
+    {
+      "departureTime": "26:21:28",
+      "startOfUnload": "22:00:20",
+      "endOfUnload": "22:10:33",
+      "shipName": "Ship [Number 75]",
+      "arrivingTime": "20:18:37"
+    },
+    {
+      "departureTime": "26:15:25",
+      "startOfUnload": "23:07:01",
+      "endOfUnload": "24:00:04",
+      "shipName": "Ship [Number 76]",
+      "arrivingTime": "23:07:00"
+    },
+    {
+      "departureTime": "26:05:34",
+      "startOfUnload": "24:00:50",
+      "endOfUnload": "24:08:22",
+      "shipName": "Ship [Number 77]",
+      "arrivingTime": "24:00:49"
+    },
+    {
+      "departureTime": "30:00:23",
+      "startOfUnload": "29:23:55",
+      "endOfUnload": "30:17:36",
+      "shipName": "Ship [Number 85]",
+      "arrivingTime": "29:23:54"
+    },
+    {
+      "departureTime": "30:21:29",
+      "startOfUnload": "29:19:57",
+      "endOfUnload": "29:21:41",
+      "shipName": "Ship [Number 87]",
+      "arrivingTime": "29:19:56"
+    },
+    {
+      "departureTime": "02:23:26",
+      "startOfUnload": "01:19:27",
+      "endOfUnload": "02:17:04",
+      "shipName": "Ship [Number 5]",
+      "arrivingTime": "01:19:26"
+    },
+    {
+      "departureTime": "03:17:17",
+      "startOfUnload": "02:17:05",
+      "endOfUnload": "03:13:38",
+      "shipName": "Ship [Number 6]",
+      "arrivingTime": "02:08:12"
+    },
+    {
+      "departureTime": "04:23:48",
+      "startOfUnload": "03:13:39",
+      "endOfUnload": "04:02:49",
+      "shipName": "Ship [Number 10]",
+      "arrivingTime": "03:13:16"
+    },
+    {
+      "departureTime": "06:04:21",
+      "startOfUnload": "05:23:20",
+      "endOfUnload": "06:19:01",
+      "shipName": "Ship [Number 12]",
+      "arrivingTime": "05:12:13"
+    },
+    {
+      "departureTime": "06:20:24",
+      "startOfUnload": "04:22:30",
+      "endOfUnload": "05:23:19",
+      "shipName": "Ship [Number 17]",
+      "arrivingTime": "04:11:16"
+    },
+    {
+      "departureTime": "08:08:16",
+      "startOfUnload": "04:02:50",
+      "endOfUnload": "04:22:29",
+      "shipName": "Ship [Number 18]",
+      "arrivingTime": "03:22:20"
+    },
+    {
+      "departureTime": "09:19:20",
+      "startOfUnload": "06:19:02",
+      "endOfUnload": "07:20:52",
+      "shipName": "Ship [Number 24]",
+      "arrivingTime": "06:17:02"
+    },
+    {
+      "departureTime": "09:09:59",
+      "startOfUnload": "07:20:53",
+      "endOfUnload": "08:04:34",
+      "shipName": "Ship [Number 26]",
+      "arrivingTime": "07:05:48"
+    },
+    {
+      "departureTime": "11:15:23",
+      "startOfUnload": "11:17:28",
+      "endOfUnload": "12:06:12",
+      "shipName": "Ship [Number 32]",
+      "arrivingTime": "11:12:52"
+    },
+    {
+      "departureTime": "12:03:48",
+      "startOfUnload": "11:04:55",
+      "endOfUnload": "11:17:27",
+      "shipName": "Ship [Number 33]",
+      "arrivingTime": "11:02:08"
+    },
+    {
+      "departureTime": "16:06:15",
+      "startOfUnload": "13:17:25",
+      "endOfUnload": "14:20:17",
+      "shipName": "Ship [Number 42]",
+      "arrivingTime": "13:17:24"
+    },
+    {
+      "departureTime": "15:18:27",
+      "startOfUnload": "10:05:42",
+      "endOfUnload": "11:04:54",
+      "shipName": "Ship [Number 44]",
+      "arrivingTime": "10:05:41"
+    },
+    {
+      "departureTime": "16:16:15",
+      "startOfUnload": "12:13:02",
+      "endOfUnload": "12:18:21",
+      "shipName": "Ship [Number 45]",
+      "arrivingTime": "12:13:01"
+    },
+    {
+      "departureTime": "18:06:18",
+      "startOfUnload": "14:20:18",
+      "endOfUnload": "15:15:15",
+      "shipName": "Ship [Number 48]",
+      "arrivingTime": "13:21:18"
+    },
+    {
+      "departureTime": "18:12:53",
+      "startOfUnload": "19:06:54",
+      "endOfUnload": "20:08:31",
+      "shipName": "Ship [Number 53]",
+      "arrivingTime": "18:04:59"
+    },
+    {
+      "departureTime": "22:10:13",
+      "startOfUnload": "18:02:44",
+      "endOfUnload": "19:06:53",
+      "shipName": "Ship [Number 65]",
+      "arrivingTime": "18:02:43"
+    },
+    {
+      "departureTime": "23:20:16",
+      "startOfUnload": "23:09:14",
+      "endOfUnload": "24:12:25",
+      "shipName": "Ship [Number 67]",
+      "arrivingTime": "22:11:03"
+    },
+    {
+      "departureTime": "24:21:31",
+      "startOfUnload": "20:08:32",
+      "endOfUnload": "21:06:01",
+      "shipName": "Ship [Number 70]",
+      "arrivingTime": "18:11:45"
+    },
+    {
+      "departureTime": "25:15:03",
+      "startOfUnload": "25:05:20",
+      "endOfUnload": "25:15:22",
+      "shipName": "Ship [Number 73]",
+      "arrivingTime": "25:05:19"
+    },
+    {
+      "departureTime": "27:14:19",
+      "startOfUnload": "22:02:08",
+      "endOfUnload": "23:09:13",
+      "shipName": "Ship [Number 79]",
+      "arrivingTime": "22:02:07"
+    }
+  ],
+  "fines": {
+    "LiquidCargo": 1952100,
+    "Containers": 537500,
+    "BulkCargo": 370700
+  },
+  "completedShipsCount": 81,
+  "craneCountForAdding": {
+    "LiquidCargo": 65,
+    "Containers": 17,
+    "BulkCargo": 12
+  },
+  "averageAwaiting": 744,
+  "maxDuration": 1402,
+  "allShipsCount": 83,
+  "averageDuration": 306
+}
